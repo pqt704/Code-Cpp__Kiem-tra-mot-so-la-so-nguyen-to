@@ -10,3 +10,5 @@
 ----
 * Tip:
 *Số 2 là số nguyên tố nhỏ nhất, và là số nguyên tố chẵn duy nhất*
+----
+[SourceCode](https://github.com/pqt704/Code-Cpp__Kiem-tra-mot-so-la-so-nguyen-to/tree/master/KiemTraSoNguyenTo)
